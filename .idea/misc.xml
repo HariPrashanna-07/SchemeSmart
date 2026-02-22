@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (ai_gov_eligibility)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (ai_gov_eligibility)" project-jdk-type="Python SDK" />
 </project>
